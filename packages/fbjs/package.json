@@ -26,7 +26,8 @@
     "gulp-rename": "^2.0.0",
     "immutable": "^3.7.6",
     "jest-cli": "^23.6.0",
-    "merge-stream": "^1.0.0"
+    "merge-stream": "^1.0.0",
+    "promise": "^7.1.1"
   },
   "license": "MIT",
   "files": [
@@ -67,7 +68,6 @@
     "fbjs-css-vars": "^1.0.0",
     "loose-envify": "^1.0.0",
     "object-assign": "^4.1.0",
-    "promise": "^7.1.1",
     "setimmediate": "^1.0.5",
     "ua-parser-js": "^1.0.35"
   },
